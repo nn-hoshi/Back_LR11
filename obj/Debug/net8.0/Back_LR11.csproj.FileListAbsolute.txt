@@ -28,3 +28,4 @@ S:\Back\Back_LR11\obj\Debug\net8.0\refint\Back_LR11.dll
 S:\Back\Back_LR11\obj\Debug\net8.0\Back_LR11.pdb
 S:\Back\Back_LR11\obj\Debug\net8.0\Back_LR11.genruntimeconfig.cache
 S:\Back\Back_LR11\obj\Debug\net8.0\ref\Back_LR11.dll
+S:\Back\Back_LR11\obj\Debug\net8.0\Back_LR11.sourcelink.json

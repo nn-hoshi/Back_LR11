@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "S:\\Back\\Back_LR11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|s:\\back\\back_lr11\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|s:\\back\\back_lr11\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|s:\\back\\back_lr11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|s:\\back\\back_lr11\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|s:\\back\\back_lr11\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|s:\\back\\back_lr11\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|s:\\back\\back_lr11\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D278B5E-CCAA-4266-94F7-828BCB6C1A92}|Back_LR11.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "S:\\Back\\Back_LR11\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "S:\\Back\\Back_LR11\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "S:\\Back\\Back_LR11\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -72,31 +72,30 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T20:25:40.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T20:25:40.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "S:\\Back\\Back_LR11\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "S:\\Back\\Back_LR11\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAADwvz4AAAABAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T20:25:02.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "S:\\Back\\Back_LR11\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "S:\\Back\\Back_LR11\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T20:24:13.582Z",
               "EditorCaption": ""
